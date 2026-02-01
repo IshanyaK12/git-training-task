@@ -3,3 +3,4 @@ Company Name: ABC Ltd
 Location: Pune
 
 // Conflict
+About: We provide IT Training and Placements
